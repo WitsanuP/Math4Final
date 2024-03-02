@@ -13,7 +13,7 @@ new
  GaussInt.m	phD
  
  [systems of equations]
- GaussPivotScale.m 	text
+ GaussPivotScale.m 	text  //use BackSub.m
  BackSub.m		text
  ThomasMethod.m		text
  DoolittleFactor.m	text
@@ -21,7 +21,7 @@ new
  CholeskyFactor.m	text
  CholeskyMethod.m	text
  Jacobi.m	text
- SaussSeidel.m	text
+ GaussSeidel.m	text
  
 remake 
  Nzeros.m   	text
