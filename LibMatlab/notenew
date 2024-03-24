@@ -44,7 +44,9 @@
  Jacobi.m	text
  GaussSeidel.m	text
  
-
+[Numerical Solution of Initial-Value Problems]
+EulerODE.m	text
+HeunODE.m 	
 [etc]
  ln.m		WitsanuP
 
