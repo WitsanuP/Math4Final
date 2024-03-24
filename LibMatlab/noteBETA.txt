@@ -1,3 +1,5 @@
+[read more] https://github.com/WitsanuP/Math4Final/tree/main/LibMatlab
+
 [root]
  Bisection.m    text
  bisection.m    phD
@@ -45,8 +47,31 @@
  GaussSeidel.m	text
  
 [Numerical Solution of Initial-Value Problems]
-EulerODE.m	text
-HeunODE.m 	
+ EulerODE.m	text
+ HeunODE.m 	text 
+ RK4.m		text
+ AdamsBashforth4.m	text
+ ABM4PredCorr.m	text
+ EulerODESystem.m	text
+ HeunODESystem.m text
+ RK4System.m	text
+ ode23, ode45, and ode113 buit-in
+ ode15s		buit-in
+
+[Matrix Eigenvalue Problem]
+ PowerMethod.m	text
+ ShiftInvPower.m	text
+ Householder.m	text
+ eig 		buit-in
+ HouseholderQR	text
+
+[Elliptic Partial Differential Equations]
+ DirichletPDE.m	text
+ PRADI.m		text
+ Heat1DFD.m	text
+ Heat1DCN.m	text
+ Wave1DFD.m	text
+
 [etc]
  ln.m		WitsanuP
 
