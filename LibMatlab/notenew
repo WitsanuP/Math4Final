@@ -1,0 +1,52 @@
+[root]
+ Bisection.m    text
+ bisection.m    phD
+ fzero		buit-in
+ RegulaFalsi.m  text	//false position
+ Nzeros.m   	text
+ FixedPoint 	text
+ Newton     	text
+ NewtonMod	text
+ Bisct.m 	text
+ roots		buit-in
+ Secant.m	text
+ 
+[Interpolation]
+ LagrangeInterp text 
+ LinearRegression	text
+ QuadraticRegression	text
+ NewtonInterp  	text
+ interp1 	buit-in
+ spline		buit-in
+ 
+[int]
+ GaussInt.m	phD
+ UpperSum.m	WitsanuP
+ LowerSum.m	WitsanuP
+ TrapComp.m	text
+ Romberg.m	text
+ integral 	buit-in
+ Simpson.m	text
+  
+[Diff]
+ GaussTable	WitsanuP
+ NewtonForwardDiff.m 	WitsanuP
+ NewtonForwardDiff2.m 	WitsanuP
+ 
+[systems of equations]
+ GaussPivotScale.m 	text  //use BackSub.m
+ BackSub.m		text
+ ThomasMethod.m		text
+ DoolittleFactor.m	text
+ DoolittleMethod.m 	text
+ CholeskyFactor.m	text
+ CholeskyMethod.m	text
+ Jacobi.m	text
+ GaussSeidel.m	text
+ 
+
+[etc]
+ ln.m		WitsanuP
+
+
+
